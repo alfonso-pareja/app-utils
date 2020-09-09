@@ -10,4 +10,4 @@ export function getPlural (str: any) : string {
     return pluralize.plural(str)
   }
 
-  console.log("here");
+  console.log(getPlural('hello 12'));
