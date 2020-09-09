@@ -15,5 +15,6 @@
   "dependencies": {
     "pluralize": "^8.0.0",
     "ts-node": "^9.0.0"
+    
   }
 }
